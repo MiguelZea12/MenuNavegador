@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jugadores de futbol</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alejandro Zea</string>
+    <string name="nav_header_subtitle_career">Estudiante de ingenieria en software</string>
+    <string name="nav_header_subtitle_mail">Mzea6356@pucesm.edu.ec</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Setting</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Espacio</string>
+    <string name="menu_Jugadores">Jugadores de futbol</string>
+</resources>
